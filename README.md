@@ -8,3 +8,11 @@ Nice clean plant app UI using flutter, the Home page you will get search box tha
 - Plant Details
 - Shopping Cart
 - Clean Flutter UI
+
+## Features
+
+- Plant Search
+- Plant Details
+- Shopping Cart
+- Clean Flutter UI
+- Responsive Design
